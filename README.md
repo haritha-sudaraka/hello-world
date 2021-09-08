@@ -1,4 +1,4 @@
-# Control windows volume with hand guestures. This is the minimum code required in python.
+# Control windows volume with hand gestures. This is the minimum code required in python.
 
 Required packages :
 
